@@ -2,30 +2,30 @@
 
 ### Data Analyst | Business Intelligence & Analytics Professional | Product Strategist Analyst
 
-I turn business data into actionable insights that support better decisions, improve performance, and identify growth opportunities.
+I turn business data into actionable insights that support better decisions, improve performance and identify growth opportunities.
 
-I work with structured and unstructured datasets to solve business problems through data cleaning, exploratory analysis, reporting, visualisation, and business intelligence.
+I work with structured and unstructured datasets to solve business problems through data cleaning, exploratory analysis, reporting, visualisation and business intelligence.
 
-My focus is on understanding the business question behind the data, identifying meaningful patterns, and communicating findings that support action.
+My focus is on understanding the business question behind the data, identifying meaningful patterns and communicating findings that support action.
 
 **[Explore my portfolio](https://chantelle-quarshie.github.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/chantelle-quarshie-48aa3b322/)**
 
 ## About Me
 
 I'm a Data Analyst with a Professional Certificate in Data Analysis & Visualisation from Tech Minds Community and Newto / DataCamp and a BSc (Hons) in Nursing from KAAF University College.
-I have practical experience working with datasets, developing analytical reports, building dashboards, and presenting findings through structured data projects.
+I have practical experience working with datasets, developing analytical reports, building dashboards and presenting findings through structured data projects.
 
 Beyond analytics i gained experience in reception management and office operations which has strengthened my skills in Excel reporting, organisation, problem definition and stakeholder communication. I bring that practical understanding of day-to-day business needs to my analytical work.
 
 My professional interests include:
 
-Data Analytics and Business Intelligence
-Exploratory Data Analysis (EDA)
-Data Cleaning and Transformation
-SQL Querying and Database Management
-Data Modelling and Visualisation
-Dashboard Development and Reporting
-Business and Customer Analytics
+- Data Analytics and Business Intelligence
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Transformation
+- SQL Querying and Database Management
+- Data Modelling and Visualisation
+- Dashboard Development and Reporting
+- Business and Customer Analytics
 
 ## Technical Skills
 
@@ -56,13 +56,13 @@ My project case studies are coming soon. Each will include the business question
 
 ## What I Bring to Analytics
 
-Business problem identification
-Data cleaning and transformation
-Exploratory data analysis
-SQL querying and data extraction
-Dashboard development
-Data storytelling and presentation
-Insight generation and recommendations
+- Business problem identification
+- Data cleaning and transformation
+- Exploratory data analysis
+- SQL querying and data extraction
+- Dashboard development
+- Data storytelling and presentation
+- Insight generation and recommendations
 
 ## Let's Connect
 
