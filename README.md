@@ -36,8 +36,8 @@ Business and Customer Analytics
 
 | Area | Tools & techniques |
 | --- | --- |
-| Dashboards & visualisation | Power BI, Tableau, Excel, data storytelling |
-| Analysis |
+| Dashboards & visualisation | Power BI, Excel, data storytelling |
+| Analysis | Conditional Formatting, Data Modelling & Relationship Management and Trend Identification |
 | Databases & preparation | SQL, SQL Server Management Studio (SSMS), MySQL, PostgreSQL, data cleaning and transformation |
 | Reporting | Power Query, PivotTables, VLOOKUP, Google Sheets, KPI development |
 | Communication | Problem definition, stakeholder guidance and presentations |
